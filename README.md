@@ -1,4 +1,4 @@
-### ❄️ Hi there! Nice to meet you! ❄️
+### 💾 Hi there! Nice to meet you! 💻
 
 I'm the current developer of the DDLC The Animatronics Story mod and Friday Night Funkin Aroko's Combo Pack. I maintain Aroko-chan Systems and Modding(Windows, Windows Server, Windows Embedded, Linux, Networking, Experiments, VMs, Ren'Py Modding)
 
